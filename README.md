@@ -2,7 +2,7 @@
 tests based on robot framework of verification Dozzoro application
 
 For running tests on the local machine please add these tools and modules to the computer:
-
+(latests verions)
 - Python 3.7.7
 - Pip latest version
 - Robot framework
